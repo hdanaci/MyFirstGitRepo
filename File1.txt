@@ -1,1 +1,2 @@
 this is a first line - Hello!
+This is a line 2 - Hi!
